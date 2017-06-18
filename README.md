@@ -15,6 +15,7 @@ This is kinda like my profile because StackExchange shouted at me for having a h
 
 ಠ\_ಠ
 
+  [Forked]: https://github.com/aaronryank/Forked
   [Triangular]: https://github.com/aaronryank/triangular
   [Cubically]: https://github.com/aaronryank/Cubically
   [Decimal]: https://github.com/aaronryank/Decimal
