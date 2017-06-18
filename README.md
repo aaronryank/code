@@ -3,11 +3,11 @@ This is kinda like my profile because StackExchange shouted at me for having a h
 # Languages
 
  - [Forked] - WIP, please contribute
- - [Triangular] - [TIO][TIO-triangular]
- - [Cubically] - [TIO][TIO-cubically]
- - [Decimal] - [TIO][TIO-decimal]
- - [shortC] - [TIO][TIO-shortC]
- - [rk] - [TIO][TIO-rk]
+ - [Triangular] - [TryItOnline][TIO-triangular]
+ - [Cubically] - [TryItOnline][TIO-cubically]
+ - [Decimal] - [TryItOnline][TIO-decimal]
+ - [shortC] - [TryItOnline][TIO-shortC]
+ - [rk] - [TryItOnline][TIO-rk]
 
 # Programs
 
@@ -16,6 +16,14 @@ This is kinda like my profile because StackExchange shouted at me for having a h
 It can do a grand total of four things: `x+y`, `x-y`, `x/y`, `x*y`.
 
 I tried to do this for a programming challenge and failed epically.
+
+---
+
+Complete graph maker in Applesoft BASIC:
+
+    0TEXT:HOME:INPUT"NUMBER OF POINTS:";A:HCOLOR=3:HGR:POKE-16302,0:FOR T1=0 TO(2*3.14)-.001 STEP((2*3.14)/A):FOR T2=(T1+(2*3.14)/A)TO(2*3.14)-.001 STEP(2*3.14)/A:HPLOT(COS(T1)*95+127),(SIN(T1)*95+95)TO(COS(T2)*95+127),(SIN(T2)*95+95):NEXT:NEXT:GET A$:GOTO0
+
+Can't remember why this is golfed...
 
 # Memes
 
