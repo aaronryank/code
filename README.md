@@ -13,6 +13,18 @@ This is kinda like my profile because StackExchange shouted at me for having a h
 
 [Basic calculator in Triangular](https://tio.run/##FcZBCsIwEAXQy0w2TWdCixQXJgHPUWhiCVWQ9pOqS2/d9Yhv9V71kdfl/cxVlcxX7LU1dLI9o/EjCJ2MIQEsMQApeXHe9nDxEmILQKgxIuE/ocmodoM7K/On1Nu2l2PdeM7zvfwA).
 
+              $ 
+             % ~ 
+            . + B 
+           , % $ 4 
+          + 2 - p * 
+         = \ p $ p 1 
+        . \ > ` p p - 
+       . ? > p p ` ` = 
+      . / = + 2 p / ? < 
+     > ? , p p p . $ * % 
+    . . > p p p . . $ _ % 
+
 It can do a grand total of four things: `x+y`, `x-y`, `x/y`, `x*y`.
 
 I tried to do this for a programming challenge and failed epically.
